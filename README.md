@@ -7,3 +7,5 @@ something yummy
 - feature-A
 
 - fix-B
+
+- feature-C.
